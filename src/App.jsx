@@ -260,7 +260,7 @@ function Contact() {
 function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/919999999999"
+      href="https://wa.me/919999999999?text=Hi!%20I%27m%20interested%20in%20your%20services.%0ACan%20you%20please%20share%20availability%3F"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat on WhatsApp"
