@@ -238,7 +238,7 @@ function Contact() {
             </div>
             <div>
               <h3 className="text-sm font-bold uppercase tracking-[0.2em] text-rose-gold">Phone</h3>
-              <p className="mt-3 text-white/80">+91 99999 99999</p>
+              <p className="mt-3 text-white/80">+91 63539 60524</p>
             </div>
           </div>
         </div>
@@ -260,7 +260,7 @@ function Contact() {
 function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/919999999999?text=Hi!%20I%27m%20interested%20in%20your%20services.%0ACan%20you%20please%20share%20availability%3F"
+      href="https://wa.me/916353960524?text=Hi!%20I%27m%20interested%20in%20your%20services.%0ACan%20you%20please%20share%20availability%3F"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat on WhatsApp"
